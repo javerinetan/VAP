@@ -37,8 +37,6 @@ Our main objective is to allow users to better understand Singapore's standard o
 
 ## Pitching Work Process
 
-🔗 <a href="https://1drv.ms/w/s!AqPqZBpzzZYljc8JYn6OdTlpkXbXWQ?e=sU0zlc" target="_blank"> Click to view Pitching Report</a>
-
 💜 Survey 
 
 - We conducted a comprehensive survey consisting of 10 questions to gain insight into our users' perspectives on Singapore.
@@ -63,8 +61,6 @@ Our main objective is to allow users to better understand Singapore's standard o
 
 ## Data Preparation & Modelling Work Process 
 
-🔗 <a href="https://1drv.ms/w/s!AqPqZBpzzZYljcsdN9gqnpvJf2yC0Q?e=fr9yP1" target="_blank"> Click to view Data Preparation & Modelling Report</a>
-
 📜 Scope of Datasets 
 
 - Datasets were taken from singstat and gov.sg which are from reliable government statistical sites 
@@ -79,8 +75,6 @@ Our main objective is to allow users to better understand Singapore's standard o
   - Remove extra datasets years which I will not be using 
 
 ## Final Project Report Work Process
-
-🔗 <a href="https://1drv.ms/w/s!Avw3ecsQ9at4gu9bgW1HCG1OfqERgg?e=CSLTJA" target="_blank"> Click to view Final Project Repprt </a>
 
 🤝 Integration 
 - To allow the smooth process of integrating our work, we have use two days coming toegther to individual add in our datasets and working through our report
